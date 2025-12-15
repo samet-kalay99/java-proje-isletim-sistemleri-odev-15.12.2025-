@@ -1,9 +1,6 @@
 # java-proje-isletim-sistemleri-odev-15.12.2025-
 1. Proje: Zaman Paylaşımı Simülasyonu (Multithreading)
 Dosya Adı: Multiprogramming.java
-
-GitHub Açıklaması:
-
 🕒 Tek İşlemci Zaman Paylaşımı (Time-Sharing Simulation)
 Bu proje, işletim sistemlerinin tek bir işlemci çekirdeğini kullanarak birden fazla programı nasıl "aynı anda çalışıyormuş gibi" gösterdiğini simüle eder.
 
@@ -19,8 +16,6 @@ Bu sayede işlemci, milisaniyeler içinde görevler arasında geçiş yaparak E�
 
 2. Proje: Çoklu İşlemci Paralel Çalışma (Multiprocessing)
 Dosya Adı: Multiprocessing.java
-
-GitHub Açıklaması:
 
 🚀 Çoklu İşlemci ve Paralel Çalışma (Multiprocessing)
 Bu proje, işletim sisteminin birden fazla çekirdeğini kullanarak görevleri gerçekten aynı anda (paralel) nasıl çalıştırdığını gösterir.
@@ -39,8 +34,6 @@ Gereksinim: Bu kodun çalışması için JDK 9 veya üzeri gereklidir.
 
 3. Proje: Thread ve Process Karşılaştırması (Concurrency vs Parallelism)
 Dosya Adı: Multitogether.java
-
-GitHub Açıklaması:
 
 🆚 Thread ve Process Karşılaştırması (Thread vs Process)
 Bu proje, İşletim Sistemleri dersindeki iki temel kavramı tek bir uygulamada karşılaştırmalı olarak gösterir: Multithreading (İş Parçacıkları) ve Multiprocessing (Çoklu İşlem).
